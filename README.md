@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephpalacios
-- 👀 I’m interested in learning how to code and program. Currently majoring in Computer Science and am excited for the future!
+- 👀 I’m interested in learning how to code and program. Currently enrolled in Codecademy to learn HTML, CSS, and Java.
 - 🌱 I’m currently learning how to work with GitHub.
 - 💞️ I’m looking to collaborate on any simple projects that can help introduce me to the coding world. 
 
